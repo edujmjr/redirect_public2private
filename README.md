@@ -17,8 +17,13 @@ One client have launched the vm with ip 10.2.0.20, using this script, anywhere i
 because the script get the last 3 octets and combine them to create a port and associates to the private ip of the vm.
 
 other examples:
+
 10.2.8.20 -> port 28020
+
 10.2.9.140 -> port 29140
+
 10.2.10.100 -> port 30100
+
 10.2.12.200 -> port 32200
+
 
